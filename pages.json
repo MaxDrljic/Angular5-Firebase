@@ -1,0 +1,24 @@
+{
+  "pages": {
+    	"angular-guide": {
+        "description": "Become great at any Angular version and develop bunch of awesome things.",
+        "title": "Angular-Guide",
+        "url": "angular5-guide"
+      },
+      "ionic3-from-scratch": {
+        "description": "Create Cross Platform Mobile Applications with Ionic 3, Angular 5, Typescript and Firebase!",
+        "title": "Ionic 3 From Scratch",
+        "url": "ionic3"
+      },
+      "react-redux": {
+        "description": "React and Redux become easy when you master one thing at a time, by learning React Router, Webpack and many more awesome things.",
+        "title": "React And Redux",
+        "url": "react-with-redux"
+      },
+      "vuejs2-guide": {
+        "description": "Vue JS is a great JavaScript framework for building front-end applications!",
+        "title": "Vue.JS 2",
+        "url": "vuejs2-guide"
+      }
+  }
+}
